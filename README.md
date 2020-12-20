@@ -1,3 +1,3 @@
 # dooya
 dooya radio Arduino
-Управление шторами с помощъю Arduino
+Управление шторами с помощью Arduino
